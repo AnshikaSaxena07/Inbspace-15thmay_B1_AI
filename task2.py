@@ -11,4 +11,4 @@ if(a_new.count(0)==a_length or a_new.count(0)==1):
     print("My String")
 
 else:
-    print("Not my string")
+    print("Not My String")
