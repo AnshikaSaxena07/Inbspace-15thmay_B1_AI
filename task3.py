@@ -1,4 +1,3 @@
-
 def MagicM(n):  
     M = [[0 for x in range(n)]  for y in range(n)] 
     a = n / 2
@@ -38,10 +37,3 @@ def MagicM(n):
 
 n=int(input("Number of rows of the Magic Matrix: "))
 MagicM(n)
-
-
-       
-
-
-
-        
